@@ -1,0 +1,1142 @@
+﻿Log file open, 07/12/20 18:30:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Try
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.395471
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:45, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.108s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/installed software/UE 4.20/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.07.12-12.45.12:229][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.12-12.45.12:229][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.12-12.45.12:236][  0]LogHAL: Display: Platform has ~ 16 GB [16963051520 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.12-12.45.12:236][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.07.12-12.45.12:236][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.12-12.45.12:236][  0]LogInit: Computer: DESKTOP-L925KKH
+[2020.07.12-12.45.12:236][  0]LogInit: User: rajan
+[2020.07.12-12.45.12:236][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.07.12-12.45.12:236][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.12-12.45.12:237][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.07.12-12.45.12:237][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.12-12.45.12:237][  0]LogMemory: Process Physical Memory: 102.38 MB used, 102.38 MB peak
+[2020.07.12-12.45.12:237][  0]LogMemory: Process Virtual Memory: 94.08 MB used, 94.08 MB peak
+[2020.07.12-12.45.12:237][  0]LogMemory: Physical Memory: 8005.72 MB used,  8171.51 MB free, 16177.23 MB total
+[2020.07.12-12.45.12:237][  0]LogMemory: Virtual Memory: 4648.78 MB used,  8171.51 MB free, 134217728.00 MB total
+[2020.07.12-12.45.12:253][  0]LogInit: Using OS detected language (en-US).
+[2020.07.12-12.45.12:253][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.12-12.45.12:254][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.12-12.45.12:550][  0]LogStreaming: Display: Took  0.297s to InitEngineTextLocalization.
+[2020.07.12-12.45.12:551][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.12-12.45.12:596][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.12-12.45.12:596][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.12-12.45.12:792][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.12-12.45.12:792][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.12-12.45.12:870][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2020.07.12-12.45.12:870][  0]LogD3D11RHI:       6052/0/8088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.12-12.45.12:887][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.07.12-12.45.12:888][  0]LogD3D11RHI:       128/0/8088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.12-12.45.12:890][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.12-12.45.12:890][  0]LogD3D11RHI:       0/0/8088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.12-12.45.12:890][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.12-12.45.12:920][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.12-12.45.12:920][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.12-12.45.12:920][  0]LogWindows: EnumDisplayDevices:
+[2020.07.12-12.45.12:920][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.07.12-12.45.12:920][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.12-12.45.12:920][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.07.12-12.45.12:921][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2020.07.12-12.45.12:921][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.07.12-12.45.12:921][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2020.07.12-12.45.12:921][  0]LogD3D11RHI:   Driver Version: 451.48 (internal:27.21.14.5148, unified:451.48)
+[2020.07.12-12.45.12:921][  0]LogD3D11RHI:      Driver Date: 6-21-2020
+[2020.07.12-12.45.12:921][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.07.12-12.45.12:971][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.12-12.45.12:987][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.12-12.45.12:988][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../unreal engine/2d/UE 4.20/Try/Intermediate/Shaders/WorkingDirectory/19464/).
+[2020.07.12-12.45.12:989][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rajan/AppData/Local/Temp/UnrealShaderWorkingDir/49E72E844BCCD8A21110658D8FAB7002/'.
+[2020.07.12-12.45.13:244][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.07.12-12.45.13:255][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.07.12-12.45.13:266][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.07.12-12.45.13:278][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.07.12-12.45.13:289][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.07.12-12.45.13:301][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.07.12-12.45.13:312][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.07.12-12.45.13:323][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.07.12-12.45.13:328][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:397][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.07.12-12.45.13:398][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.07.12-12.45.13:461][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.07.12-12.45.13:461][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.07.12-12.45.13:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.07.12-12.45.13:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.07.12-12.45.13:494][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.07.12-12.45.13:505][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.07.12-12.45.13:517][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.07.12-12.45.13:529][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.07.12-12.45.13:536][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.07.12-12.45.13:536][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.12-12.45.13:574][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.12-12.45.13:574][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.12-12.45.13:574][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.12-12.45.14:178][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.12-12.45.14:222][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/rajan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.07.12-12.45.14:222][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rajan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.07.12-12.45.14:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../unreal engine/2d/UE 4.20/Try/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.12-12.45.14:222][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.12-12.45.14:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../unreal engine/2d/UE 4.20/Try/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.12-12.45.14:222][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.12-12.45.14:235][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.12-12.45.14:248][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rajan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.12-12.45.14:248][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.12-12.45.14:248][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.12-12.45.14:264][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.12-12.45.14:265][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.12-12.45.14:265][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.12-12.45.14:331][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2020.07.12-12.45.14:594][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.12-12.45.14:707][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.07.12-12.45.14:710][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.07.12-12.45.14:710][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.12-12.45.14:710][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.12-12.45.14:710][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.07.12-12.45.14:727][  0]LogNetVersion: Try 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2687831774)
+[2020.07.12-12.45.15:165][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.079149 seconds
+[2020.07.12-12.45.15:170][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.07.12-12.45.15:170][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2020.07.12-12.45.15:170][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.12-12.45.15:874][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.12-12.45.15:886][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.12-12.45.16:019][  0]SourceControl: Source control is disabled
+[2020.07.12-12.45.16:019][  0]SourceControl: Source control is disabled
+[2020.07.12-12.45.16:020][  0]SourceControl: Source control is disabled
+[2020.07.12-12.45.16:021][  0]SourceControl: Source control is disabled
+[2020.07.12-12.45.16:171][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.12-12.45.16:223][  0]LogOcInput: OculusInput pre-init called
+[2020.07.12-12.45.16:276][  0]LogEngine: Initializing Engine...
+[2020.07.12-12.45.16:277][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.12-12.45.16:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.07.12-12.45.16:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.07.12-12.45.16:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.07.12-12.45.16:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.07.12-12.45.16:451][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.12-12.45.16:459][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.12-12.45.16:480][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-12.45.17:148][  0]LogInit: FAudioDevice initialized.
+[2020.07.12-12.45.17:148][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.12-12.45.17:242][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/rajan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.07.12-12.45.17:245][  0]LogInit: Texture streaming: Enabled
+[2020.07.12-12.45.17:256][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.12-12.45.17:266][  0]LogInit: Transaction tracking system initialized
+[2020.07.12-12.45.17:278][  0]BlueprintLog: New page: Editor Load
+[2020.07.12-12.45.17:323][  0]LocalizationService: Localization service is disabled
+[2020.07.12-12.45.17:522][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.12-12.45.17:522][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.12-12.45.17:522][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.07.12-12.45.17:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.07.12-12.45.17:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.07.12-12.45.17:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.07.12-12.45.17:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.07.12-12.45.17:602][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/2d/UE 4.20/Try/Content/' took 0.02s
+[2020.07.12-12.45.17:602][  0]SourceControl: Source control is disabled
+[2020.07.12-12.45.17:603][  0]Cmd: MAP LOAD FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.12-12.45.17:603][  0]LightingResults: New page: Lighting Build
+[2020.07.12-12.45.17:604][  0]MapCheck: New page: Map Check
+[2020.07.12-12.45.17:604][  0]LightingResults: New page: Lighting Build
+[2020.07.12-12.45.18:241][  0]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-12.45.18:292][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-12.45.18:317][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-12.45.18:391][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.824ms to complete.
+[2020.07.12-12.45.18:391][  0]LogFileHelpers: Loading map 'level_00' took 0.789
+[2020.07.12-12.45.18:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-12.45.18:544][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-12.45.18:550][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-12.45.18:556][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-12.45.18:560][  0]LogCollectionManager: Loaded 0 collections in 0.000746 seconds
+[2020.07.12-12.45.18:600][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/2d/UE 4.20/Try/Saved/Collections/' took 0.01s
+[2020.07.12-12.45.18:600][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/2d/UE 4.20/Try/Content/Developers/rajan/Collections/' took 0.01s
+[2020.07.12-12.45.18:600][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine/2d/UE 4.20/Try/Content/Collections/' took 0.01s
+[2020.07.12-12.45.18:600][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.07.12-12.45.18:608][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2572 classes and 603 folders.
+[2020.07.12-12.45.18:612][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.12-12.45.18:649][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.12-12.45.18:652][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.07.12-12.45.18:724][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.12-12.45.18:726][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.12-12.45.18:731][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.12-12.45.18:799][  0]LogRenderer: Reallocating scene render targets to support 960x520 Format 10 NumSamples 1 (Frame:1).
+[2020.07.12-12.45.19:093][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.12-12.45.19:093][  0]LogLoad: (Engine Initialization) Total time: 8.38 seconds
+[2020.07.12-12.45.19:093][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.12-12.45.19:130][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.12-12.45.19:151][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.12-12.45.19:217][  1]LogAssetRegistry: Asset discovery search completed in 4.9078 seconds
+[2020.07.12-12.45.19:219][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.07.12-12.45.19:219][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2020.07.12-12.45.20:139][ 45]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.12-12.45.48:124][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-12.45.48:375][737]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Traps/BreakingBridge.BreakingBridge
+[2020.07.12-12.45.48:797][737]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2020.07.12-12.45.49:456][737]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/2D_SelfLift.2D_SelfLift
+[2020.07.12-12.45.49:757][737]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/2D_lift.2D_lift
+[2020.07.12-12.45.50:052][737]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.12-12.45.50:141][738]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.12-12.45.53:435][904]LogSlate: Window 'BreakingBridge' being destroyed
+[2020.07.12-12.46.38:199][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-12.56.50:541][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__000_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__000_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:549][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__000_Sprite3FE80B774C4E0984FB4F9783E82714C5.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__000_Sprite.uasset'
+[2020.07.12-12.56.50:561][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__001_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__001_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:567][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__001_Sprite63EC08094DC42585B911A6A02D4C363A.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__001_Sprite.uasset'
+[2020.07.12-12.56.50:580][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__002_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__002_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:586][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__002_Sprite4828D31344E200B13FF202BBACB2E126.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__002_Sprite.uasset'
+[2020.07.12-12.56.50:598][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__003_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__003_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:605][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__003_SpriteACB2A34947D8FEB3553DE3AD660315E1.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__003_Sprite.uasset'
+[2020.07.12-12.56.50:618][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__004_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__004_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:625][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__004_Sprite640BD249484338EC93C7F19DE638F360.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__004_Sprite.uasset'
+[2020.07.12-12.56.50:638][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__005_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__005_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:645][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__005_SpriteD69ED5284D5F93A47FFFFCA36FCB8A4B.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__005_Sprite.uasset'
+[2020.07.12-12.56.50:658][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__006_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__006_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:665][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__006_Sprite4ACFC6C140C2E8AFB54F89AB1962B9AD.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__006_Sprite.uasset'
+[2020.07.12-12.56.50:678][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__007_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__007_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:684][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__007_Sprite7C51771048412C088EB7C3A7FFCFBF0D.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__007_Sprite.uasset'
+[2020.07.12-12.56.50:697][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__008_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__008_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:704][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__008_Sprite00F89CF743AA48E8431B209CFFD42941.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__008_Sprite.uasset'
+[2020.07.12-12.56.50:716][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Slide__009_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__009_Sprite.uasset" SILENT=true
+[2020.07.12-12.56.50:723][787]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__009_SpriteFBE5421241C782D49765299220A251B3.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide__009_Sprite.uasset'
+[2020.07.12-12.57.05:405][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__000_Sprite692D4D9E4648112F3D015CBE698D82C4.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__000_Sprite.uasset'
+[2020.07.12-12.57.05:427][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__001_SpriteFEDF3EDB4541049ABDB910ADC9C6C230.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__001_Sprite.uasset'
+[2020.07.12-12.57.05:450][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__002_SpriteDD42E83C490BD3C79FA50988D8851A47.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__002_Sprite.uasset'
+[2020.07.12-12.57.05:471][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__003_Sprite9820DEC34FB0880193A6EAA80C3EE532.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__003_Sprite.uasset'
+[2020.07.12-12.57.05:492][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__004_Sprite05B96D3742A806D367DED680FFC50CE5.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__004_Sprite.uasset'
+[2020.07.12-12.57.05:523][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__005_Sprite9E81D5DF4A80C07F83853CBAD67DB71D.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__005_Sprite.uasset'
+[2020.07.12-12.57.05:547][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__006_SpriteBAA662F54114417F9C10B1BF4FB13208.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__006_Sprite.uasset'
+[2020.07.12-12.57.05:572][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__007_Sprite478A7FF54BD21795D11C10A4A82BC314.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__007_Sprite.uasset'
+[2020.07.12-12.57.05:594][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__008_SpriteE3B28CA6430A68F05D97D288DF319E0A.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__008_Sprite.uasset'
+[2020.07.12-12.57.05:616][541]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide__009_Sprite3FDD07CF49F52452C48A9BB4DEF0BFDC.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Slide/Slide__009_Sprite.uasset'
+[2020.07.12-12.57.29:783][723]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.07.12-12.57.30:545][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-12.57.31:276][796]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Demo/Character/Sprite/Slide/Slide.Slide
+[2020.07.12-12.57.31:380][797]LogRenderer: Reallocating scene render targets to support 1200x788 Format 10 NumSamples 1 (Frame:1).
+[2020.07.12-12.57.56:344][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/level_00' took 0.025
+[2020.07.12-12.57.56:346][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Demo/Character/Sprite/Slide/Slide] ([1] browsable assets)...
+[2020.07.12-12.57.56:352][290]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Demo/Character/Sprite/Slide/Slide.Slide]
+[2020.07.12-12.57.56:352][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Character/Sprite/Slide/Slide]
+[2020.07.12-12.57.56:359][290]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide_Auto117A632724143F8C179B06E868D007D83.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Character/Sprite/Slide/Slide_Auto1.uasset'
+[2020.07.12-12.57.56:360][290]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.07.12-12.58.18:730][356]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.07.12-12.58.18:884][357]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Try
+[2020.07.12-12.58.18:884][357]LogTemp: CWD: D:\installed software\UE 4.20\UE_4.20\Engine\Binaries\DotNET\IOS
+[2020.07.12-12.58.18:884][357]LogTemp: Initial Dir: D:\installed software\UE 4.20\UE_4.20
+[2020.07.12-12.58.18:884][357]LogTemp: Env CWD: D:\installed software\UE 4.20\UE_4.20\Engine\Binaries\DotNET\IOS
+[2020.07.12-12.58.18:884][357]LogTemp: BranchPath = DESKTOP-L925KKH/D/installed software/UE 4.20/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-L925KKH/D/installed software/UE 4.20/UE_4.20/Engine/Binaries
+[2020.07.12-12.58.18:884][357]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\rajan\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.07.12-13.00.09:902][882]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/BP_Dude.BP_Dude
+[2020.07.12-13.07.56:605][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/level_00' took 0.027
+[2020.07.12-13.07.56:608][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/BP_Dude] ([1] browsable assets)...
+[2020.07.12-13.07.56:608][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/BP_Dude]
+[2020.07.12-13.07.56:608][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.07.12-13.07.57:025][699]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude_Auto28AF06D8649F52CB8CED29C9B61CDAF44.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto2.uasset'
+[2020.07.12-13.07.57:038][699]LogFileHelpers: Auto-saving content packages took 0.433
+[2020.07.12-13.21.19:270][828]LogEditorTransaction: Undo Delete current selection
+[2020.07.12-13.24.02:381][423]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/level_00' took 0.028
+[2020.07.12-13.24.02:383][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/BP_Dude] ([1] browsable assets)...
+[2020.07.12-13.24.02:383][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/BP_Dude]
+[2020.07.12-13.24.02:383][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.07.12-13.24.02:444][423]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude_Auto37B4933AE47D036CEB78C7FB4AA9119E5.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto3.uasset'
+[2020.07.12-13.24.02:448][423]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.07.12-13.25.39:258][181]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.12-13.25.43:076][400]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.12-13.29.41:238][295]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-13.29.44:120][430]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-13.29.44:136][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-13.29.44:150][430]PIE: New page: PIE session: level_00 (Jul 13, 2020, 12:59:44 AM)
+[2020.07.12-13.29.44:150][430]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-13.29.44:170][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020334s)
+[2020.07.12-13.29.44:171][430]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-13.29.44:171][430]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2020.07.12-13.29.44:171][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.021371s)
+[2020.07.12-13.29.44:200][430]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-13.29.44:208][430]LogInit: FAudioDevice initialized.
+[2020.07.12-13.29.44:241][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-13.29.44:289][430]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-13.29.44:312][430]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-19.14.44
+[2020.07.12-13.29.44:322][430]LogWorld: Bringing up level for play took: 0.030895
+[2020.07.12-13.29.44:342][430]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2020.07.12-13.29.44:348][430]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.692
+[2020.07.12-13.29.44:419][430]LogRenderer: Reallocating scene render targets to support 1292x788 Format 10 NumSamples 1 (Frame:1).
+[2020.07.12-13.30.10:762][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-13.30.10:775][  6]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-13.30.10:838][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-13.30.10:887][  7]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.07.12-13.30.45:582][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/FlipBook/Slide" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/FlipBook/Slide.uasset" SILENT=true
+[2020.07.12-13.30.45:589][927]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Slide620B4A814E5A92C81B9E3591848B04F2.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/FlipBook/Slide.uasset'
+[2020.07.12-13.30.52:687][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-13.30.53:049][296]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_003674909A4C4959A091FC3387F6741ED2.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap'
+[2020.07.12-13.30.53:071][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00_BuiltData" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.07.12-13.30.53:090][296]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00_BuiltData54B0E92C4ABB6AC28BD91E99819CF50D.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset'
+[2020.07.12-13.40.51:737][860]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/level_00' took 0.027
+[2020.07.12-13.40.51:739][860]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/BP_Dude] ([1] browsable assets)...
+[2020.07.12-13.40.51:739][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/BP_Dude]
+[2020.07.12-13.40.51:739][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.07.12-13.40.51:801][860]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude_Auto4F711E43A40EFD58DB543279064E77B6B.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto4.uasset'
+[2020.07.12-13.40.52:154][860]LogFileHelpers: Auto-saving content packages took 0.417
+[2020.07.12-13.47.45:055][560]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-13.47.45:642][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-13.47.45:703][577]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude7716D1B045ED3B572AC2B397EFA360C4.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-13.47.46:675][618]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-13.47.46:688][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-13.47.46:688][618]PIE: New page: PIE session: level_00 (Jul 13, 2020, 1:17:46 AM)
+[2020.07.12-13.47.46:688][618]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-13.47.46:707][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018215s)
+[2020.07.12-13.47.46:708][618]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-13.47.46:708][618]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2020.07.12-13.47.46:708][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019866s)
+[2020.07.12-13.47.46:737][618]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-13.47.46:743][618]LogInit: FAudioDevice initialized.
+[2020.07.12-13.47.46:778][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-13.47.46:816][618]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-13.47.46:835][618]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-19.32.46
+[2020.07.12-13.47.46:845][618]LogWorld: Bringing up level for play took: 0.027337
+[2020.07.12-13.47.46:862][618]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.313
+[2020.07.12-13.48.20:129][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-13.48.20:142][605]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-13.48.20:201][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-13.48.20:261][606]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.07.12-13.48.58:506][716]LogEditorViewport: Clicking on Actor (LMB): BP_explode_C (BP_explode)
+[2020.07.12-13.49.06:256][141]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (back1_Sprite)
+[2020.07.12-13.49.06:334][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.12-13.49.07:181][189]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.07.12-13.49.08:507][265]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.07.12-13.49.09:310][308]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.12-13.49.10:171][352]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.12-13.49.13:429][531]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.12-13.49.15:169][620]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.12-13.49.15:819][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-13.49.15:928][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-13.49.16:296][657]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00716F014C41D006C462D0F5B67F7FED7A.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap'
+[2020.07.12-13.49.16:320][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00_BuiltData" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.07.12-13.49.16:335][657]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00_BuiltData45BAA2EF41003E2CA8F08DB3C9B3817F.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset'
+[2020.07.12-13.49.16:929][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-13.49.16:995][688]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-13.49.17:008][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-13.49.17:008][688]PIE: New page: PIE session: level_00 (Jul 13, 2020, 1:19:17 AM)
+[2020.07.12-13.49.17:008][688]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-13.49.17:029][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020515s)
+[2020.07.12-13.49.17:030][688]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-13.49.17:030][688]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2020.07.12-13.49.17:030][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.021382s)
+[2020.07.12-13.49.17:058][688]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-13.49.17:064][688]LogInit: FAudioDevice initialized.
+[2020.07.12-13.49.17:095][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-13.49.17:137][688]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-13.49.17:157][688]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-19.34.17
+[2020.07.12-13.49.17:166][688]LogWorld: Bringing up level for play took: 0.028273
+[2020.07.12-13.49.17:182][688]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.633
+[2020.07.12-13.49.26:305][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.12-13.49.26:307][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-13.49.26:320][150]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-13.49.26:385][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-13.49.26:435][151]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.07.12-13.49.27:383][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-13.50.03:961][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.12-13.50.04:821][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.12-13.50.07:195][586]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.07.12-13.50.07:213][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.12-13.50.07:293][589]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Try
+[2020.07.12-13.50.07:293][589]LogTemp: CWD: D:\installed software\UE 4.20\UE_4.20\Engine\Binaries\DotNET\IOS
+[2020.07.12-13.50.07:293][589]LogTemp: Initial Dir: D:\installed software\UE 4.20\UE_4.20
+[2020.07.12-13.50.07:293][589]LogTemp: Env CWD: D:\installed software\UE 4.20\UE_4.20\Engine\Binaries\DotNET\IOS
+[2020.07.12-13.50.07:295][589]LogTemp: BranchPath = DESKTOP-L925KKH/D/installed software/UE 4.20/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-L925KKH/D/installed software/UE 4.20/UE_4.20/Engine/Binaries
+[2020.07.12-13.50.07:309][589]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\rajan\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.07.12-14.26.44:607][205]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-14.26.44:629][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-14.26.44:629][205]PIE: New page: PIE session: level_00 (Jul 13, 2020, 1:56:44 AM)
+[2020.07.12-14.26.44:629][205]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-14.26.44:651][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022004s)
+[2020.07.12-14.26.44:651][205]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-14.26.44:651][205]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2020.07.12-14.26.44:652][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.023453s)
+[2020.07.12-14.26.44:684][205]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-14.26.44:691][205]LogInit: FAudioDevice initialized.
+[2020.07.12-14.26.44:723][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.26.44:760][205]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-14.26.44:781][205]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.11.44
+[2020.07.12-14.26.44:791][205]LogWorld: Bringing up level for play took: 0.030519
+[2020.07.12-14.26.44:808][205]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.259
+[2020.07.12-14.27.15:095][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.27.15:110][  8]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-14.27.15:194][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-14.27.15:240][  9]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.07.12-14.27.16:553][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-14.27.28:960][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-14.27.52:897][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__000_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__000_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.52:905][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__000_SpriteB8A881E14EBF54589CF2B492DB43F703.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__000_Sprite.uasset'
+[2020.07.12-14.27.52:917][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__001_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__001_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.52:924][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__001_Sprite178CACCE4491920FB7134AB833361A0C.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__001_Sprite.uasset'
+[2020.07.12-14.27.52:936][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__002_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__002_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.52:943][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__002_Sprite4034928C4B4DC74E4929CC97C920F3FE.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__002_Sprite.uasset'
+[2020.07.12-14.27.52:955][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__003_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__003_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.52:961][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__003_Sprite140CF058462E769986B1D69C12C0ED6F.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__003_Sprite.uasset'
+[2020.07.12-14.27.52:974][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__004_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__004_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.52:981][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__004_Sprite5D56F4A14770E6E4E39023AD73088B1B.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__004_Sprite.uasset'
+[2020.07.12-14.27.52:994][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__005_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__005_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.53:001][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__005_SpriteA698B75940FC5AB5C5AFFAA884E6A57C.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__005_Sprite.uasset'
+[2020.07.12-14.27.53:013][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__006_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__006_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.53:021][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__006_Sprite1A97CCCD44D6A39C3BF761938DE9F581.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__006_Sprite.uasset'
+[2020.07.12-14.27.53:033][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__007_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__007_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.53:039][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__007_Sprite3A9A5BA840E2CB5D9ABA8B961C64C952.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__007_Sprite.uasset'
+[2020.07.12-14.27.53:051][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__008_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__008_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.53:058][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__008_Sprite674B22F546547B9189BD7DBF340F0135.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__008_Sprite.uasset'
+[2020.07.12-14.27.53:070][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead__009_Sprite" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__009_Sprite.uasset" SILENT=true
+[2020.07.12-14.27.53:076][549]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__009_Sprite4BC8045B40AFE5E63937CFA1F6E598B1.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead__009_Sprite.uasset'
+[2020.07.12-14.28.09:687][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/A_Dead" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/A_Dead.uasset" SILENT=true
+[2020.07.12-14.28.09:693][346]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/A_DeadB7D8B5994D988006D2B410A338F10B2E.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/A_Dead.uasset'
+[2020.07.12-14.28.24:540][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__000_Sprite65E06FB54576EA14DEF332A725128F2C.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__000_Sprite.uasset'
+[2020.07.12-14.28.24:560][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__001_Sprite1A689D834C3B8D92DD67A69809E9228C.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__001_Sprite.uasset'
+[2020.07.12-14.28.24:579][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__002_Sprite7F2F9F84428463DD361589A0B358B6E8.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__002_Sprite.uasset'
+[2020.07.12-14.28.24:598][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__003_Sprite81D18E1A4E81AF1E676417804B0291BB.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__003_Sprite.uasset'
+[2020.07.12-14.28.24:617][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__004_Sprite5012C337413F48F6FAFA7CBACD2FE19E.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__004_Sprite.uasset'
+[2020.07.12-14.28.24:637][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__005_Sprite1394E0224CAF848671CEECB46D677FE7.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__005_Sprite.uasset'
+[2020.07.12-14.28.24:655][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__006_Sprite0E95A33D437140CEE41CD7A546C573CA.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__006_Sprite.uasset'
+[2020.07.12-14.28.24:674][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__007_SpriteDCFD62D24BBEBAE0548E8E95E693E001.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__007_Sprite.uasset'
+[2020.07.12-14.28.24:692][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__008_Sprite4CF7A62D4708DFDC2A2AE39D35D4DF63.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__008_Sprite.uasset'
+[2020.07.12-14.28.24:711][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead__009_Sprite05625BB94EEE8A8BFC39639175E2B790.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead__009_Sprite.uasset'
+[2020.07.12-14.28.25:648][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/A_Dead" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/A_Dead.uasset" SILENT=true
+[2020.07.12-14.28.25:657][107]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/A_DeadECBA89FC479EC6BD0D18BDB627C4C50F.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/A_Dead.uasset'
+[2020.07.12-14.29.59:182][682]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Demo/Character/Sprite/A_Dead.A_Dead
+[2020.07.12-14.30.11:099][321]LogRenderer: Reallocating scene render targets to support 1304x788 Format 10 NumSamples 1 (Frame:643).
+[2020.07.12-14.30.11:134][322]LogRenderer: Reallocating scene render targets to support 1324x788 Format 10 NumSamples 1 (Frame:645).
+[2020.07.12-14.30.11:169][323]LogRenderer: Reallocating scene render targets to support 1348x788 Format 10 NumSamples 1 (Frame:647).
+[2020.07.12-14.30.11:203][324]LogRenderer: Reallocating scene render targets to support 1368x788 Format 10 NumSamples 1 (Frame:649).
+[2020.07.12-14.30.11:236][325]LogRenderer: Reallocating scene render targets to support 1380x788 Format 10 NumSamples 1 (Frame:651).
+[2020.07.12-14.30.11:271][326]LogRenderer: Reallocating scene render targets to support 1388x788 Format 10 NumSamples 1 (Frame:653).
+[2020.07.12-14.30.11:305][327]LogRenderer: Reallocating scene render targets to support 1396x788 Format 10 NumSamples 1 (Frame:655).
+[2020.07.12-14.30.11:339][328]LogRenderer: Reallocating scene render targets to support 1400x788 Format 10 NumSamples 1 (Frame:657).
+[2020.07.12-14.30.11:554][340]LogRenderer: Reallocating scene render targets to support 1404x788 Format 10 NumSamples 1 (Frame:659).
+[2020.07.12-14.30.11:650][344]LogRenderer: Reallocating scene render targets to support 1408x788 Format 10 NumSamples 1 (Frame:663).
+[2020.07.12-14.30.11:684][345]LogRenderer: Reallocating scene render targets to support 1416x788 Format 10 NumSamples 1 (Frame:665).
+[2020.07.12-14.30.11:722][346]LogRenderer: Reallocating scene render targets to support 1420x788 Format 10 NumSamples 1 (Frame:667).
+[2020.07.12-14.30.11:757][347]LogRenderer: Reallocating scene render targets to support 1428x788 Format 10 NumSamples 1 (Frame:669).
+[2020.07.12-14.30.11:792][348]LogRenderer: Reallocating scene render targets to support 1432x788 Format 10 NumSamples 1 (Frame:671).
+[2020.07.12-14.30.11:827][349]LogRenderer: Reallocating scene render targets to support 1440x788 Format 10 NumSamples 1 (Frame:673).
+[2020.07.12-14.30.11:861][350]LogRenderer: Reallocating scene render targets to support 1444x788 Format 10 NumSamples 1 (Frame:675).
+[2020.07.12-14.30.11:896][351]LogRenderer: Reallocating scene render targets to support 1452x788 Format 10 NumSamples 1 (Frame:677).
+[2020.07.12-14.30.11:936][352]LogRenderer: Reallocating scene render targets to support 1456x788 Format 10 NumSamples 1 (Frame:679).
+[2020.07.12-14.30.11:969][353]LogRenderer: Reallocating scene render targets to support 1464x788 Format 10 NumSamples 1 (Frame:681).
+[2020.07.12-14.30.12:003][354]LogRenderer: Reallocating scene render targets to support 1468x788 Format 10 NumSamples 1 (Frame:683).
+[2020.07.12-14.30.12:040][355]LogRenderer: Reallocating scene render targets to support 1472x788 Format 10 NumSamples 1 (Frame:685).
+[2020.07.12-14.30.12:137][359]LogRenderer: Reallocating scene render targets to support 1476x788 Format 10 NumSamples 1 (Frame:689).
+[2020.07.12-14.30.12:211][361]LogRenderer: Reallocating scene render targets to support 1480x788 Format 10 NumSamples 1 (Frame:693).
+[2020.07.12-14.30.12:248][362]LogRenderer: Reallocating scene render targets to support 1484x788 Format 10 NumSamples 1 (Frame:695).
+[2020.07.12-14.30.12:284][363]LogRenderer: Reallocating scene render targets to support 1488x788 Format 10 NumSamples 1 (Frame:697).
+[2020.07.12-14.30.12:320][364]LogRenderer: Reallocating scene render targets to support 1492x788 Format 10 NumSamples 1 (Frame:699).
+[2020.07.12-14.30.12:354][365]LogRenderer: Reallocating scene render targets to support 1496x788 Format 10 NumSamples 1 (Frame:701).
+[2020.07.12-14.30.21:651][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-14.31.12:524][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/A_Dead" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/A_Dead.uasset" SILENT=true
+[2020.07.12-14.31.12:537][866]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/A_Dead768DFE134DD3600C17398787B1E7E02A.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/A_Dead.uasset'
+[2020.07.12-14.37.09:342][941]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.37.10:273][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-14.37.10:340][977]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude6731F9EE439707F16E26ABB11EDD9F6F.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-14.41.01:945][263]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.41.02:677][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-14.41.02:739][289]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeBC6CAFB1407EA15C1BCF0A83346C04EC.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-14.45.20:807][120]LogEditorTransaction: Undo Move Node
+[2020.07.12-14.53.01:290][889]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.53.02:027][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-14.53.02:101][914]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeA9B4A2B44ADB51CA96D39891DEB3C49F.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-14.53.49:354][581]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.53.50:013][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-14.53.50:079][599]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeD25D1D3F45D7C801BA542E9207D827A4.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-14.53.53:387][789]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-14.53.53:400][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-14.53.53:400][789]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:23:53 AM)
+[2020.07.12-14.53.53:400][789]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-14.53.53:419][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018992s)
+[2020.07.12-14.53.53:420][789]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-14.53.53:420][789]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2020.07.12-14.53.53:420][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019811s)
+[2020.07.12-14.53.53:450][789]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-14.53.53:456][789]LogInit: FAudioDevice initialized.
+[2020.07.12-14.53.53:490][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.53.53:523][789]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-14.53.53:548][789]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.38.53
+[2020.07.12-14.53.53:557][789]LogWorld: Bringing up level for play took: 0.033013
+[2020.07.12-14.53.53:575][789]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 1.026
+[2020.07.12-14.54.05:934][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.54.05:947][519]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-14.54.06:012][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-14.54.06:073][520]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.07.12-14.54.36:026][240]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.54.36:926][261]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-14.54.36:938][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-14.54.36:939][261]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:24:36 AM)
+[2020.07.12-14.54.36:939][261]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-14.54.36:958][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019106s)
+[2020.07.12-14.54.36:958][261]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-14.54.36:959][261]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2020.07.12-14.54.36:959][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019985s)
+[2020.07.12-14.54.36:988][261]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-14.54.36:994][261]LogInit: FAudioDevice initialized.
+[2020.07.12-14.54.37:030][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.54.37:071][261]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-14.54.37:092][261]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.39.37
+[2020.07.12-14.54.37:101][261]LogWorld: Bringing up level for play took: 0.028785
+[2020.07.12-14.54.37:119][261]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.57
+[2020.07.12-14.54.51:441][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.54.51:454][108]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-14.54.51:518][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-14.54.51:570][109]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.07.12-14.55.34:135][616]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.55.37:578][787]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-14.55.37:591][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-14.55.37:591][787]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:25:37 AM)
+[2020.07.12-14.55.37:591][787]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-14.55.37:610][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018391s)
+[2020.07.12-14.55.37:610][787]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-14.55.37:611][787]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2020.07.12-14.55.37:611][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019150s)
+[2020.07.12-14.55.37:638][787]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-14.55.37:644][787]LogInit: FAudioDevice initialized.
+[2020.07.12-14.55.37:679][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.55.37:716][787]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-14.55.37:735][787]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.40.37
+[2020.07.12-14.55.37:745][787]LogWorld: Bringing up level for play took: 0.027002
+[2020.07.12-14.55.37:763][787]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.787
+[2020.07.12-14.55.52:080][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.55.52:093][624]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-14.55.52:159][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-14.55.52:211][625]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.07.12-14.55.57:583][939]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.55.58:450][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-14.55.58:514][971]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude60B10FB749EC6DEB5A7BE0959F28C91C.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-14.55.59:657][ 28]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-14.55.59:670][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-14.55.59:670][ 28]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:25:59 AM)
+[2020.07.12-14.55.59:670][ 28]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-14.55.59:688][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018359s)
+[2020.07.12-14.55.59:689][ 28]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-14.55.59:689][ 28]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2020.07.12-14.55.59:689][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019186s)
+[2020.07.12-14.55.59:718][ 28]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-14.55.59:724][ 28]LogInit: FAudioDevice initialized.
+[2020.07.12-14.55.59:758][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.55.59:798][ 28]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-14.55.59:817][ 28]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.40.59
+[2020.07.12-14.55.59:826][ 28]LogWorld: Bringing up level for play took: 0.027378
+[2020.07.12-14.55.59:845][ 28]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.705
+[2020.07.12-14.56.05:256][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.56.05:269][345]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-14.56.05:328][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-14.56.05:380][346]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.07.12-14.56.14:166][836]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.56.14:950][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-14.56.15:015][861]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeD3EA14D7422C57D598C92390701CB440.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-14.56.16:287][935]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-14.56.16:300][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-14.56.16:300][935]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:26:16 AM)
+[2020.07.12-14.56.16:300][935]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-14.56.16:318][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017840s)
+[2020.07.12-14.56.16:319][935]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-14.56.16:319][935]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2020.07.12-14.56.16:319][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.018877s)
+[2020.07.12-14.56.16:347][935]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-14.56.16:353][935]LogInit: FAudioDevice initialized.
+[2020.07.12-14.56.16:387][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.56.16:425][935]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-14.56.16:444][935]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.41.16
+[2020.07.12-14.56.16:454][935]LogWorld: Bringing up level for play took: 0.027364
+[2020.07.12-14.56.16:472][935]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.077
+[2020.07.12-14.56.24:668][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.56.24:681][420]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-14.56.24:745][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-14.56.24:795][421]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.07.12-14.56.54:682][114]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-14.56.55:387][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-14.56.55:452][136]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeC608444E47F8F02FDB1A478B58642146.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-14.56.56:297][173]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-14.56.56:311][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-14.56.56:311][173]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:26:56 AM)
+[2020.07.12-14.56.56:311][173]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-14.56.56:330][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018693s)
+[2020.07.12-14.56.56:331][173]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-14.56.56:331][173]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2020.07.12-14.56.56:331][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019457s)
+[2020.07.12-14.56.56:360][173]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-14.56.56:367][173]LogInit: FAudioDevice initialized.
+[2020.07.12-14.56.56:402][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.56.56:439][173]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-14.56.56:457][173]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.41.56
+[2020.07.12-14.56.56:467][173]LogWorld: Bringing up level for play took: 0.027023
+[2020.07.12-14.56.56:485][173]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.064
+[2020.07.12-14.57.24:379][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-14.57.24:392][837]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-14.57.24:455][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-14.57.24:517][838]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.07.12-15.08.03:222][210]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.08.03:654][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-15.08.03:721][216]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude6FEA02D640F2273AAA1541B47A766549.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-15.09.08:141][835]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.09.08:766][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-15.09.08:834][853]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeEC28C50D4820751803AF80BA95FA015E.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-15.09.12:993][ 94]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.09.13:006][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.09.13:006][ 94]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:39:13 AM)
+[2020.07.12-15.09.13:006][ 94]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.09.13:024][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017833s)
+[2020.07.12-15.09.13:025][ 94]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.09.13:025][ 94]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2020.07.12-15.09.13:025][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019069s)
+[2020.07.12-15.09.13:056][ 94]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.09.13:063][ 94]LogInit: FAudioDevice initialized.
+[2020.07.12-15.09.13:098][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.13:137][ 94]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.09.13:154][ 94]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.54.13
+[2020.07.12-15.09.13:164][ 94]LogWorld: Bringing up level for play took: 0.027017
+[2020.07.12-15.09.13:183][ 94]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.633
+[2020.07.12-15.09.25:938][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.25:951][848]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.09.26:015][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.09.26:064][849]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.07.12-15.09.28:518][963]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.09.28:531][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.09.28:531][963]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:39:28 AM)
+[2020.07.12-15.09.28:531][963]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.09.28:549][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018001s)
+[2020.07.12-15.09.28:550][963]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.09.28:550][963]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2020.07.12-15.09.28:550][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019637s)
+[2020.07.12-15.09.28:576][963]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.09.28:582][963]LogInit: FAudioDevice initialized.
+[2020.07.12-15.09.28:615][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.28:657][963]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.09.28:681][963]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.54.28
+[2020.07.12-15.09.28:691][963]LogWorld: Bringing up level for play took: 0.033081
+[2020.07.12-15.09.28:709][963]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.159
+[2020.07.12-15.09.30:540][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.30:554][ 60]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.09.30:618][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.09.30:673][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.07.12-15.09.34:836][268]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (back1_Sprite)
+[2020.07.12-15.09.36:009][333]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start2)
+[2020.07.12-15.09.37:898][435]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.12-15.09.38:816][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-15.09.38:958][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-15.09.39:323][491]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00E565C35E4D332241CFF640956B808E35.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap'
+[2020.07.12-15.09.39:346][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00_BuiltData" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.07.12-15.09.39:364][491]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00_BuiltData4534ED4B49064486173102818CFCBC4A.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset'
+[2020.07.12-15.09.40:042][520]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.09.40:056][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.09.40:056][520]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:39:40 AM)
+[2020.07.12-15.09.40:056][520]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.09.40:075][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019459s)
+[2020.07.12-15.09.40:076][520]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.09.40:076][520]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2020.07.12-15.09.40:076][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.020243s)
+[2020.07.12-15.09.40:108][520]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.09.40:113][520]LogInit: FAudioDevice initialized.
+[2020.07.12-15.09.40:149][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.40:185][520]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.09.40:204][520]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.54.40
+[2020.07.12-15.09.40:213][520]LogWorld: Bringing up level for play took: 0.027346
+[2020.07.12-15.09.40:229][520]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.32
+[2020.07.12-15.09.41:663][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.41:675][594]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.09.41:731][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.09.41:776][595]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.07.12-15.09.44:289][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-15.09.44:416][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-15.09.44:774][744]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_0018A1FC7C4B8FAADA659EF5989AEEEF87.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap'
+[2020.07.12-15.09.44:796][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00_BuiltData" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.07.12-15.09.44:810][744]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00_BuiltData2616F5AA485023E41F0D35B6DB9DF94E.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset'
+[2020.07.12-15.09.45:998][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-15.09.46:065][810]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.09.46:077][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.09.46:078][810]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:39:46 AM)
+[2020.07.12-15.09.46:078][810]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.09.46:097][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018808s)
+[2020.07.12-15.09.46:097][810]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.09.46:097][810]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2020.07.12-15.09.46:097][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019632s)
+[2020.07.12-15.09.46:126][810]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.09.46:132][810]LogInit: FAudioDevice initialized.
+[2020.07.12-15.09.46:168][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.46:206][810]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.09.46:224][810]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.54.46
+[2020.07.12-15.09.46:234][810]LogWorld: Bringing up level for play took: 0.027677
+[2020.07.12-15.09.46:251][810]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.299
+[2020.07.12-15.09.47:581][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.47:593][878]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.09.47:654][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.09.47:698][879]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.07.12-15.09.50:560][ 44]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start2)
+[2020.07.12-15.09.52:955][170]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.07.12-15.09.54:044][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-15.09.54:188][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-15.09.54:547][233]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00A847D7E74B96EE6A05B0B39A6CB6DC9F.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap'
+[2020.07.12-15.09.54:570][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00_BuiltData" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.07.12-15.09.54:583][233]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00_BuiltData40B9C7FC4019C0DBAF836FB1796791CE.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset'
+[2020.07.12-15.09.55:189][267]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.09.55:202][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.09.55:202][267]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:39:55 AM)
+[2020.07.12-15.09.55:202][267]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.09.55:220][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019322s)
+[2020.07.12-15.09.55:221][267]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.09.55:221][267]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2020.07.12-15.09.55:221][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.020052s)
+[2020.07.12-15.09.55:249][267]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.09.55:255][267]LogInit: FAudioDevice initialized.
+[2020.07.12-15.09.55:292][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.09.55:325][267]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.09.55:349][267]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.54.55
+[2020.07.12-15.09.55:359][267]LogWorld: Bringing up level for play took: 0.032425
+[2020.07.12-15.09.55:375][267]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.825
+[2020.07.12-15.10.05:983][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.10.05:996][890]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.10.06:055][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.10.06:099][891]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.07.12-15.10.09:717][ 86]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.10.09:730][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.10.09:730][ 86]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:40:09 AM)
+[2020.07.12-15.10.09:731][ 86]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.10.09:750][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019109s)
+[2020.07.12-15.10.09:750][ 86]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.10.09:750][ 86]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2020.07.12-15.10.09:750][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019850s)
+[2020.07.12-15.10.09:781][ 86]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.10.09:787][ 86]LogInit: FAudioDevice initialized.
+[2020.07.12-15.10.09:821][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.10.09:853][ 86]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.10.09:872][ 86]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.55.09
+[2020.07.12-15.10.09:882][ 86]LogWorld: Bringing up level for play took: 0.027334
+[2020.07.12-15.10.09:898][ 86]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.651
+[2020.07.12-15.10.24:047][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.10.24:060][922]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.10.24:122][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.10.24:164][923]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.07.12-15.10.56:502][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/FlipBook/A_Dead" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/FlipBook/A_Dead.uasset" SILENT=true
+[2020.07.12-15.10.56:508][575]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/A_Dead94D7EE1E40BF8B79373B66ABE4E4A535.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/FlipBook/A_Dead.uasset'
+[2020.07.12-15.10.56:770][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-15.10.56:838][575]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeD182905F4E0344DC04A17EA89F145784.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-15.11.12:714][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Character/Sprite/Dead/Dead_loopend" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead_loopend.uasset" SILENT=true
+[2020.07.12-15.11.12:720][375]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead_loopend1845DB9249C7E3DBD31D94A4757C39DC.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Character/Sprite/Dead/Dead_loopend.uasset'
+[2020.07.12-15.11.24:213][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/FlipBook/Dead_loopend" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/FlipBook/Dead_loopend.uasset" SILENT=true
+[2020.07.12-15.11.24:219][968]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Dead_loopend09E4BAF64ADD93B6D439DB8AE226E12F.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/FlipBook/Dead_loopend.uasset'
+[2020.07.12-15.11.31:397][328]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.11.31:863][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-15.11.31:931][336]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeF04E97B947692BE3E7425E937F66813C.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-15.12.01:794][955]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.12.03:025][  4]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.12.03:038][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.12.03:038][  4]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:42:03 AM)
+[2020.07.12-15.12.03:038][  4]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.12.03:057][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018883s)
+[2020.07.12-15.12.03:058][  4]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.12.03:058][  4]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2020.07.12-15.12.03:058][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.020040s)
+[2020.07.12-15.12.03:087][  4]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.12.03:093][  4]LogInit: FAudioDevice initialized.
+[2020.07.12-15.12.03:128][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.12.03:164][  4]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.12.03:184][  4]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.57.03
+[2020.07.12-15.12.03:194][  4]LogWorld: Bringing up level for play took: 0.028481
+[2020.07.12-15.12.03:212][  4]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.663
+[2020.07.12-15.12.09:498][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.12.09:511][374]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.12.09:575][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.12.09:631][375]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.07.12-15.12.16:127][711]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.07.12-15.12.17:186][771]Cmd: DELETE
+[2020.07.12-15.12.17:186][771]Cmd: ACTOR DELETE
+[2020.07.12-15.12.17:195][771]LogEditorActor: Deleted Actor: PlayerStart
+[2020.07.12-15.12.17:221][771]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.07.12-15.12.19:160][887]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start2)
+[2020.07.12-15.12.20:307][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-15.12.20:453][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-15.12.20:812][957]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_006020DE964D20A6469BACD993F0D286E9.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap'
+[2020.07.12-15.12.20:835][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00_BuiltData" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.07.12-15.12.20:848][957]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00_BuiltDataB4F590CB484946DD63BF7899F76A56EC.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset'
+[2020.07.12-15.12.21:972][  7]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.12.21:985][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.12.21:985][  7]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:42:21 AM)
+[2020.07.12-15.12.21:985][  7]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.12.22:003][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018103s)
+[2020.07.12-15.12.22:004][  7]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.12.22:004][  7]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2020.07.12-15.12.22:004][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.018834s)
+[2020.07.12-15.12.22:033][  7]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.12.22:039][  7]LogInit: FAudioDevice initialized.
+[2020.07.12-15.12.22:074][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.12.22:111][  7]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.12.22:132][  7]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-20.57.22
+[2020.07.12-15.12.22:142][  7]LogWorld: Bringing up level for play took: 0.029018
+[2020.07.12-15.12.22:159][  7]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.39
+[2020.07.12-15.12.34:972][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.12.34:985][761]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.12.35:050][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.12.35:098][762]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.07.12-15.12.40:269][ 33]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.12.40:755][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-15.12.40:832][ 41]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude947C42FB48226CF11675218AB1F501BD.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-15.15.04:810][498]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.15.05:798][530]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.15.05:811][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.15.05:811][530]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:45:05 AM)
+[2020.07.12-15.15.05:811][530]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.15.05:829][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017918s)
+[2020.07.12-15.15.05:830][530]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.15.05:830][530]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2020.07.12-15.15.05:830][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.018909s)
+[2020.07.12-15.15.05:860][530]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.15.05:866][530]LogInit: FAudioDevice initialized.
+[2020.07.12-15.15.05:901][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.15.05:938][530]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.15.05:959][530]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.00.05
+[2020.07.12-15.15.05:968][530]LogWorld: Bringing up level for play took: 0.029174
+[2020.07.12-15.15.05:987][530]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.562
+[2020.07.12-15.15.28:299][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.15.28:312][840]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.15.28:382][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.15.28:433][841]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.07.12-15.17.26:958][623]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.17.27:766][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-15.17.27:847][647]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude58A2894C4009ECF70807529517834E89.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-15.21.12:499][748]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.21.12:988][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset" SILENT=true
+[2020.07.12-15.21.13:060][757]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_DudeC5A4F01842321FB9F53C3DAF0AA85C57.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Blueprint/BP_Dude.uasset'
+[2020.07.12-15.21.13:585][778]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.21.13:598][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.21.13:599][778]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:51:13 AM)
+[2020.07.12-15.21.13:599][778]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.21.13:617][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018334s)
+[2020.07.12-15.21.13:618][778]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.21.13:618][778]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2020.07.12-15.21.13:618][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019191s)
+[2020.07.12-15.21.13:649][778]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.21.13:655][778]LogInit: FAudioDevice initialized.
+[2020.07.12-15.21.13:689][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.21.13:729][778]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.21.13:749][778]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.06.13
+[2020.07.12-15.21.13:758][778]LogWorld: Bringing up level for play took: 0.028133
+[2020.07.12-15.21.13:777][778]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.772
+[2020.07.12-15.21.34:243][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.21.34:256][995]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.21.34:320][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.21.34:372][996]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.07.12-15.21.55:263][198]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.23.48:369][148]LogEditorTransaction: Undo Rename Node
+[2020.07.12-15.23.49:294][191]LogEditorTransaction: Undo Add Node
+[2020.07.12-15.24.58:390][875]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Demo/Maps/level_00' took 0.025
+[2020.07.12-15.24.58:393][875]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Demo/Blueprint/BP_Dude] ([1] browsable assets)...
+[2020.07.12-15.24.58:393][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Demo/Blueprint/BP_Dude]
+[2020.07.12-15.24.58:393][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Blueprint/BP_Dude" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.07.12-15.24.58:466][875]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/BP_Dude_Auto55480C3214D5E84F48DC70084883F0DE9.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/Autosaves/Game/Demo/Blueprint/BP_Dude_Auto5.uasset'
+[2020.07.12-15.24.58:468][875]LogFileHelpers: Auto-saving content packages took 0.077
+[2020.07.12-15.25.54:052][980]BlueprintLog: New page: Compile BP_Dude
+[2020.07.12-15.25.55:241][ 15]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.25.55:255][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.25.55:255][ 15]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:55:55 AM)
+[2020.07.12-15.25.55:255][ 15]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.25.55:275][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019665s)
+[2020.07.12-15.25.55:276][ 15]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.25.55:276][ 15]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2020.07.12-15.25.55:276][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.020630s)
+[2020.07.12-15.25.55:303][ 15]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.25.55:310][ 15]LogInit: FAudioDevice initialized.
+[2020.07.12-15.25.55:344][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.25.55:380][ 15]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.25.55:399][ 15]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.10.55
+[2020.07.12-15.25.55:409][ 15]LogWorld: Bringing up level for play took: 0.028076
+[2020.07.12-15.25.55:427][ 15]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 0.877
+[2020.07.12-15.26.02:095][397]LogNet: Browse: /Game/Demo/Maps/level_00
+[2020.07.12-15.26.02:111][397]LogLoad: LoadMap: /Game/Demo/Maps/level_00
+[2020.07.12-15.26.02:216][397]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.26.02:234][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017695s)
+[2020.07.12-15.26.02:234][397]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.26.02:235][397]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2020.07.12-15.26.02:235][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.018858s)
+[2020.07.12-15.26.02:235][397]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.26.02:255][397]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.11.02
+[2020.07.12-15.26.02:264][397]LogWorld: Bringing up level for play took: 0.028085
+[2020.07.12-15.26.02:275][397]LogLoad: Took 0.164075 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_level_00)
+[2020.07.12-15.26.24:240][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.26.24:253][709]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.26.24:320][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.26.24:376][710]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.07.12-15.26.25:627][765]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.26.25:640][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.26.25:641][765]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:56:25 AM)
+[2020.07.12-15.26.25:641][765]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.26.25:659][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018006s)
+[2020.07.12-15.26.25:659][765]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.26.25:659][765]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2020.07.12-15.26.25:659][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.018716s)
+[2020.07.12-15.26.25:685][765]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.26.25:691][765]LogInit: FAudioDevice initialized.
+[2020.07.12-15.26.25:725][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.26.25:761][765]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.26.25:780][765]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.11.25
+[2020.07.12-15.26.25:789][765]LogWorld: Bringing up level for play took: 0.026733
+[2020.07.12-15.26.25:809][765]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.74
+[2020.07.12-15.26.34:599][284]LogNet: Browse: /Game/Demo/Maps/level_00
+[2020.07.12-15.26.34:600][284]LogLoad: LoadMap: /Game/Demo/Maps/level_00
+[2020.07.12-15.26.34:645][284]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.26.34:664][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018507s)
+[2020.07.12-15.26.34:664][284]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.26.34:664][284]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2020.07.12-15.26.34:664][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019278s)
+[2020.07.12-15.26.34:665][284]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.26.34:684][284]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.11.34
+[2020.07.12-15.26.34:694][284]LogWorld: Bringing up level for play took: 0.027971
+[2020.07.12-15.26.34:695][284]LogLoad: Took 0.095582 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_level_00)
+[2020.07.12-15.26.40:949][659]LogNet: Browse: /Game/Demo/Maps/level_00
+[2020.07.12-15.26.40:949][659]LogLoad: LoadMap: /Game/Demo/Maps/level_00
+[2020.07.12-15.26.40:998][659]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.26.41:017][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018749s)
+[2020.07.12-15.26.41:017][659]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.26.41:018][659]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2020.07.12-15.26.41:018][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019462s)
+[2020.07.12-15.26.41:018][659]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.26.41:040][659]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.11.41
+[2020.07.12-15.26.41:049][659]LogWorld: Bringing up level for play took: 0.030915
+[2020.07.12-15.26.41:051][659]LogLoad: Took 0.101609 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_level_00)
+[2020.07.12-15.26.52:891][363]LogNet: Browse: /Game/Demo/Maps/level_00
+[2020.07.12-15.26.52:891][363]LogLoad: LoadMap: /Game/Demo/Maps/level_00
+[2020.07.12-15.26.52:939][363]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.26.52:957][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017670s)
+[2020.07.12-15.26.52:957][363]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.26.52:957][363]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2020.07.12-15.26.52:957][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.018385s)
+[2020.07.12-15.26.52:957][363]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.26.52:983][363]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.11.52
+[2020.07.12-15.26.52:992][363]LogWorld: Bringing up level for play took: 0.033326
+[2020.07.12-15.26.52:994][363]LogLoad: Took 0.102577 seconds to LoadMap(/Game/Demo/Maps/UEDPIE_0_level_00)
+[2020.07.12-15.27.04:797][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.27.04:809][ 67]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.27.04:874][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.27.04:926][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.07.12-15.27.08:590][250]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (stone3_Sprite71)
+[2020.07.12-15.27.09:538][301]LogEditorViewport: Clicking on Actor (LMB): BP_explode_C (BP_explode)
+[2020.07.12-15.27.20:515][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.12-15.27.20:658][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.12-15.27.21:025][921]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00FF31A81242E4B7819F7AE5AE988E6819.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00.umap'
+[2020.07.12-15.27.21:048][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Demo/Maps/level_00_BuiltData" FILE="../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset" SILENT=true
+[2020.07.12-15.27.21:063][921]LogSavePackage: Moving '../../../../../../unreal engine/2d/UE 4.20/Try/Saved/level_00_BuiltDataCF52C62C4302DA799B80A58CA36B28AE.tmp' to '../../../../../../unreal engine/2d/UE 4.20/Try/Content/Demo/Maps/level_00_BuiltData.uasset'
+[2020.07.12-15.27.22:224][985]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.12-15.27.22:237][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-15.27.22:237][985]PIE: New page: PIE session: level_00 (Jul 13, 2020, 2:57:22 AM)
+[2020.07.12-15.27.22:237][985]LogPlayLevel: Creating play world package: /Game/Demo/Maps/UEDPIE_0_level_00
+[2020.07.12-15.27.22:256][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018533s)
+[2020.07.12-15.27.22:257][985]LogAIModule: Creating AISystem for world level_00
+[2020.07.12-15.27.22:257][985]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2020.07.12-15.27.22:257][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Demo/Maps/level_00.level_00 to /Game/Demo/Maps/UEDPIE_0_level_00.level_00 (0.019748s)
+[2020.07.12-15.27.22:285][985]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.07.12-15.27.22:291][985]LogInit: FAudioDevice initialized.
+[2020.07.12-15.27.22:324][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.27.22:363][985]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.07.12-15.27.22:383][985]LogWorld: Bringing World /Game/Demo/Maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2020.07.12-21.12.22
+[2020.07.12-15.27.22:393][985]LogWorld: Bringing up level for play took: 0.028412
+[2020.07.12-15.27.22:410][985]PIE: Play in editor start time for /Game/Demo/Maps/UEDPIE_0_level_00 -0.139
+[2020.07.12-15.27.35:181][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-15.27.35:193][738]LogSlate: Window 'Try Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.12-15.27.35:254][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-15.27.35:339][739]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.07.12-15.27.51:415][680]LogEditorViewport: Clicking on Actor (LMB): BP_explode_C (BP_explode4)
+[2020.07.12-15.27.54:910][888]LogEditorViewport: Clicking on Actor (context menu): BP_explode_C (BP_explode4)
+[2020.07.12-15.27.54:946][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.12-15.27.55:863][936]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.07.12-15.27.55:895][936]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Demo/Blueprint/Traps/BP_explode.BP_explode
+[2020.07.12-15.28.04:642][404]LogUObjectArray: Warning: Empty slot
+[2020.07.12-15.28.07:904][404]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.262 s
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: 
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: Stack: 
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff8883871f6 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff8880c0c92 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff8880db356 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff886b011db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff886b1060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff8853fda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff880fcec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff880f8f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff8879e8204 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff887c2e933 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff887a4281a UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff887a18190 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff887a0b073 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff89bb5d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff89bb50270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.12-15.28.07:904][404]LogOutputDevice: Error: [Callstack] 0x00007ff89bb5f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff89bb4c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff8fc555c0d USER32.dll!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff8fc555602 USER32.dll!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff89bb60646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff744fc54e5 UE4Editor.exe!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff744fd5b3c UE4Editor.exe!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff744fd5bba UE4Editor.exe!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff744fe3dac UE4Editor.exe!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff744fe5aaa UE4Editor.exe!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff8fc9c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: [Callstack] 0x00007ff8fd02ce51 ntdll.dll!UnknownFunction []
+[2020.07.12-15.28.07:905][404]LogOutputDevice: Error: 
+[2020.07.12-15.28.07:932][404]LogStats:                SubmitErrorReport -  0.018 s
